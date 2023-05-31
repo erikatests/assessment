@@ -45,6 +45,7 @@ const answers = [
     '{userName}, your strength is curiosity.',
     '{userName}, your strength is passion.',
     '{userName}, your strength is love.',
+    '{userName}, your strength is sincerity.',
     ];
 
 function assessment(userName) {
